@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files
+data/
+*.json
+*.csv
+
+# Models / checkpoints
+models/
+*.h5
+*.pt
+*.pkl
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS files
+Thumbs.db
+
+
+# Config with sensitive info
+config/config.py
